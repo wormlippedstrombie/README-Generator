@@ -1,7 +1,7 @@
-# README-Generator
+# Test Project 
 
   ## Description
-This project is a generator that takes in user input and outputs it into a professionally structured readme
+This is a program which will generate a functional and professional README file based on user input
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,10 +12,12 @@ This project is a generator that takes in user input and outputs it into a profe
 - [Questions](#questions)
 
 ## Installation
-This project simply requires running NPM install in the command line after downloading the files
+To install simply download and run the command 'npm install' in the command line
 
 ## Usage
-In order to use this simply enter the command 'node index' into the command line
+In order to use simply run the command 'node index' in the command line
+
+[Video tutorial link](https://drive.google.com/file/d/1jslG9wAl3mMWtI16qAgOh1TKcCo2GBnS/view?pli=1)
 
 ## License
 
@@ -26,7 +28,8 @@ This application is not covered by any license.
 N/A
 
 ## Tests
-In order to test this simply run the program and input any placeholder information you would like
+To test simply run the commands as demonstrated in the tutorial video.
+
 
 ## Questions
 For any questions, please feel free to contact me:
